@@ -18,3 +18,5 @@
 (custom-set-variables
  '(google-translate-default-source-language "en")
  '(google-translate-default-target-language "fr"))
+
+(set-face-attribute 'default nil :height 102)
